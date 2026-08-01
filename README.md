@@ -12,7 +12,7 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 **Dashboard Preview**
 
 
-![Dashboard](https://github.com/abhayrps-ux/HR-Analytics-Power-BI-Dashboard/blob/main/Dashboard.png))
+![Dashboard](https://github.com/abhayrps-ux/HR-Analytics-Power-BI-Dashboard/blob/main/Dashboard.png)
 
 ---
 
