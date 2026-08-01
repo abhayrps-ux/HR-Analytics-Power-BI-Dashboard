@@ -1,6 +1,7 @@
-# HR-Analytics-Power-BI-Dashboard
+**HR-Analytics-Power-BI-Dashboard**
 Interactive HR Analytics Dashboard built in Power BI using the IBM HR Analytics Employee Attrition dataset. Includes DAX measures, Power Query transformations, KPI analysis, and interactive visualizations for workforce insights.
-📊 HR Analytics Dashboard
+
+📊 **HR Analytics Dashboard**
 
 📌 **Project Overview**
 
@@ -11,11 +12,11 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 **Dashboard Preview**
 
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](https://github.com/abhayrps-ux/HR-Analytics-Power-BI-Dashboard/blob/main/Dashboard.png))
 
 ---
 
-## 🎯 Business Questions Answered
+🎯 **Business Questions Answered**
 
 - How many employees are currently in the company?
 - What is the employee attrition rate?
@@ -27,7 +28,7 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 
 ---
 
-## 📊 Key KPIs
+📊 **Key KPIs**
 
 - Total Employees
 - Active Employees
@@ -38,7 +39,7 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 
 ---
 
-## 🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 - Power BI Desktop
 - Power Query
@@ -47,7 +48,7 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 
 ---
 
-## 📈 Dashboard Features
+📈 **Dashboard Features**
 
 - KPI Cards
 - Department Analysis
@@ -59,7 +60,7 @@ The dashboard helps HR teams analyze employee attrition, workforce distribution,
 
 ---
 
-## 💡 Key Insights
+💡 **Key Insights**
 
 - Overall employee attrition is **16.12%**.
 - Research & Development has the highest employee count.
